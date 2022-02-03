@@ -159,6 +159,7 @@ ul.footer-menu li {
     display: inline-block;
     position: relative;
     padding: 0 10px;
+    margin-bottom: 10px;
 }
 
 ul.footer-menu {
